@@ -111,7 +111,7 @@ A desktop application providing encrypted communication and tamper-proof data ex
 | Undergraduate Teaching Assistant | Purdue University | Aug 2025 – Present |
 | Fullstack Software Engineer | Aallie (Remote) | Dec 2024 – Aug 2025 |
 | Fullstack Software Engineer Intern | Aallie (Remote) | Sept 2024 – Dec 2024 |
-| Fullstack & IoT Engineer Intern | Egyptian NAIT for People with Disabilities | Aug 2024 – Sept 2024 |
+| Fullstack & IoT Engineer Intern | Egyptian NAID | Aug 2024 – Sept 2024 |
 | Software Engineer Intern | Nexus Analytica, Cairo | Aug 2023 – Oct 2023 |
 
 ---
