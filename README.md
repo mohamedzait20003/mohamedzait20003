@@ -145,9 +145,7 @@ A desktop application providing encrypted communication and tamper-proof data ex
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedzait20003&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzait20003&layout=compact&theme=default&hide_border=true&langs_count=8&count_private=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedzait20003&theme=default" />
 </p>
 
 <p align="center">
