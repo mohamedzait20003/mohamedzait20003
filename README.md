@@ -144,16 +144,28 @@ A desktop application providing encrypted communication and tamper-proof data ex
 
 ## 📊 GitHub Stats
 
+<!-- Row 1: Profile Summary + Top Languages -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedzait20003&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedzait20003&theme=default" width="100%"/>
 </p>
 
+<!-- Row 2: Stats + Top Languages side by side -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedzait20003&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamedzait20003&theme=default" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamedzait20003&theme=default" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamedzait20003&theme=default" height="180"/>
 </p>
 
+<!-- Row 3: Streak -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedzait20003&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com?user=mohamedzait20003&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%"/>
+</p>
+
+<!-- Row 4: Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedzait20003&theme=flat&no-frame=true&row=1&column=6&margin-w=10" width="100%"/>
 </p>
 
 ---
