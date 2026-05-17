@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Engineering Student @ Purdue University & Egypt University of Informatics</b><br/>
-  Fullstack Engineer · Cybersecurity Researcher · IoT & Systems Builder
+  Fullstack Engineer · Cybersecurity Researcher · IoT & Systems Builder · AI/ML Practitioner
 </p>
 
 <p align="center">
@@ -49,6 +49,16 @@ Currently I'm:
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
+### 🤖 AI / Machine Learning
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat&logo=openai&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
 ### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -66,6 +76,22 @@ Currently I'm:
 
 ---
 
+## 🎯 Areas of Expertise
+
+| Domain | Details |
+|---|---|
+| 🧠 **Transformers & Attention** | Pretraining, fine-tuning, and deploying LLMs; BERT, GPT-style, and encoder-decoder architectures |
+| 💬 **Natural Language Processing** | Text classification, NER, semantic search, citation-aware document understanding, structured text extraction |
+| 👁️ **Computer Vision** | Image classification, object detection, CNNs, feature extraction pipelines, vision-language models |
+| 🔥 **Deep Learning** | Backpropagation, regularization, optimizers, model compression, custom PyTorch architectures |
+| 🏗️ **Systems Design** | Designing scalable, distributed systems; microservices, API design, caching strategies, and event-driven architecture |
+| 🔧 **Backend Development** | RESTful APIs, authentication, database modeling, server-side logic across Node.js, Laravel, Django, FastAPI, and Spring Boot |
+| 🎨 **Frontend Development** | Responsive UIs with React, state management (Redux/RTK, BLoC), and cross-platform mobile with Flutter |
+| 🧪 **Unit Testing** | Writing reliable test suites, test-driven development, mocking, and integration testing across multiple stacks |
+| 🧩 **Problem Solving** | Competitive programming background; strong algorithmic thinking applied to real-world engineering challenges |
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🤖 [ARES — Senior Design Project](https://github.com/mohamedzait20003)
@@ -78,7 +104,7 @@ Architecting a robotics evaluation system within a Vertically Integrated Project
 ### 🧠 [CiteMind — NLP Research Tool](https://github.com/mohamedzait20003)
 > Python, PyTorch, Hugging Face Transformers
 
-An NLP tool leveraging state-of-the-art transformer architectures to process and analyze complex academic text. Focuses on citation-aware understanding and structured text extraction.
+An NLP tool leveraging state-of-the-art transformer architectures to process and analyze complex academic text. Focuses on citation-aware understanding and structured text extraction — applying attention-based models to extract semantically meaningful references from dense scholarly documents.
 
 ---
 
@@ -119,9 +145,17 @@ A desktop application providing encrypted communication and tamper-proof data ex
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedzait20003&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedzait20003&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzait20003&layout=compact&theme=default&hide_border=true&langs_count=8" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzait20003&layout=compact&theme=default&hide_border=true&langs_count=8&count_private=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedzait20003&theme=default&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedzait20003&theme=flat&no-frame=true&row=1&column=6" />
 </p>
 
 ---
