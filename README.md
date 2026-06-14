@@ -133,8 +133,8 @@ A desktop application providing encrypted communication and tamper-proof data ex
 
 | Role | Organization | Period |
 |---|---|---|
-| Undergraduate Research Assistant (Cybersecurity/ICS) | Purdue University — CYNICS Lab | Jan 2026 – Present |
-| Undergraduate Teaching Assistant | Purdue University | Aug 2025 – Present |
+| Undergraduate Research Assistant (Cybersecurity/ICS) | Purdue University — CYNICS Lab | Jan 2026 – May 2026 |
+| Undergraduate Teaching Assistant | Purdue University | Aug 2025 – May 2026 |
 | Fullstack Software Engineer | Aallie (Remote) | Dec 2024 – Aug 2025 |
 | Fullstack Software Engineer Intern | Aallie (Remote) | Sept 2024 – Dec 2024 |
 | Fullstack & IoT Engineer Intern | Egyptian NAID | Aug 2024 – Sept 2024 |
