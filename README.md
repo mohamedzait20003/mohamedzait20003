@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohamed Zaitoun 👋</h1>
 
 <p align="center">
-  <b>Computer Engineering Student @ Purdue University & Egypt University of Informatics</b><br/>
+  <b>Computer Engineer @ Purdue University & Egypt University of Informatics</b><br/>
   Fullstack Engineer · Cybersecurity Researcher · IoT & Systems Builder · AI/ML Practitioner
 </p>
 
