@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Mohamed Zaitoun 👋</h1>
 
 <p align="center">
-  <b>Computer Engineer @ Purdue University & Egypt University of Informatics</b><br/>
-  Fullstack Engineer · Cybersecurity Researcher · IoT & Systems Builder · AI/ML Practitioner
+  <b>Software Engineer specializing in AI-Agentic Systems & Full-Stack Development</b><br/>
 </p>
 
 <p align="center">
@@ -15,12 +14,14 @@
 
 ## 🧭 About Me
 
-I'm a senior Computer Engineering student completing a joint degree between **Purdue University** (West Lafayette, IN) and **Egypt University of Informatics** (Cairo). I enjoy building full-stack products, exploring NLP/ML, and working at the intersection of hardware and software.
+I'm a Software Engineer focused on building AI-agentic systems, with strong expertise in full-stack and backend engineering. My work involves modern web technologies like TypeScript/Node, React, Laravel, Django, FastAPI, and PostgreSQL, coupled with advanced applied AI techniques, including LLM integration, agentic workflows, LangChain, RAG, and prompt/agent orchestration. I hold a joint Computer Engineering degree from Purdue University and Egypt University of Informatics.
 
 Currently I'm:
-- 🔬 Conducting research on **ICS/OT cybersecurity** at Purdue's CYNICS Lab
-- 🎓 Serving as an **Undergraduate Teaching Assistant** at Purdue
-- 🤖 Wrapping up my **ARES Senior Design Project** — a robotics system comparing nonlinear MPC vs. differential game control
+- 🧠 Building and iterating on AI-agentic systems for task automation, content generation, and intelligent recommendations.
+- 💻 Collaborating on full-stack applications with modern web technologies, contributing to scalable and robust platforms.
+- 🤖 Wrapping up my **ARES Senior Design Project** — a robotics system comparing nonlinear MPC vs. differential game control.
+- 🔬 Conducting research on **ICS/OT cybersecurity** at Purdue's CYNICS Lab.
+- 🎓 Serving as an **Undergraduate Teaching Assistant** at Purdue.
 
 ---
 
@@ -62,114 +63,49 @@ Currently I'm:
 ### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![AWS ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=flat&logo=awsec2&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Tools & Technologies
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-006F8C?style=flat&logo=gazebo&logoColor=white)
+![Matlab](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Powershell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-5B4BFF?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
-## 🎯 Areas of Expertise
+## ✨ AI-Agentic Systems & Full-Stack Innovations
 
-| Domain | Details |
-|---|---|
-| 🧠 **Transformers & Attention** | Pretraining, fine-tuning, and deploying LLMs; BERT, GPT-style, and encoder-decoder architectures |
-| 💬 **Natural Language Processing** | Text classification, NER, semantic search, citation-aware document understanding, structured text extraction |
-| 👁️ **Computer Vision** | Image classification, object detection, CNNs, feature extraction pipelines, vision-language models |
-| 🔥 **Deep Learning** | Backpropagation, regularization, optimizers, model compression, custom PyTorch architectures |
-| 🏗️ **Systems Design** | Designing scalable, distributed systems; microservices, API design, caching strategies, and event-driven architecture |
-| 🔧 **Backend Development** | RESTful APIs, authentication, database modeling, server-side logic across Node.js, Laravel, Django, FastAPI, and Spring Boot |
-| 🎨 **Frontend Development** | Responsive UIs with React, state management (Redux/RTK, BLoC), and cross-platform mobile with Flutter |
-| 🧪 **Unit Testing** | Writing reliable test suites, test-driven development, mocking, and integration testing across multiple stacks |
-| 🧩 **Problem Solving** | Competitive programming background; strong algorithmic thinking applied to real-world engineering challenges |
+### [CiteMind](https://github.com/mohamedzait20003/CiteMind)
+Engineered a multimodal audio-language model for academic citation recommendation. This project fused a frozen OpenAI Whisper audio encoder with a BART sequence-to-sequence decoder via a custom cross-modal layer. I designed a two-stage training pipeline on A100 GPUs, utilizing masked generative pre-training followed by PPO-based Reinforcement Learning with a custom composite reward function. This approach successfully **reduced citation hallucination rates from 11% to 2% and improved format accuracy from 89% to 98%**.
+**Technologies:** Python, PyTorch, Hugging Face, Reinforcement Learning, Whisper, BART.
 
----
+### [RepoNarrator](https://github.com/mohamedzait20003/RepoNarrator)
+Developed a full-stack application that generates AI-powered GitHub READMEs, tailored to a user's resume. This system integrates LangChain to create agentic workflows, reading user resumes and repository content to generate or improve project READMEs. The generated content is then pushed back as a pull request or direct commit. The backend is built with NestJS and TypeORM (PostgreSQL), while the frontend uses TanStack Start + React 19.
+**Technologies:** TypeScript, NestJS, React, TypeORM, PostgreSQL, LangChain.
 
-## 🚀 Featured Projects
+### [Tractus](https://github.com/mohamedzait20003/Tractus)
+Created a full-stack task management application with an optional AI layer powered by Google Gemini via the ADK Go SDK. Clients can describe goals in natural language to create tasks or leverage the AI to automatically organize and re-prioritize their backlog. This system streamlines task management by providing intelligent, AI-driven assistance. The backend is built with Go and Gin, while the frontend uses Next.js 16 and React 19.
+**Technologies:** Go, Next.js, PostgreSQL, Google Gemini (via ADK).
 
-### 🤖 [ARES — Senior Design Project](https://github.com/mohamedzait20003)
-> C++, ROS2, Python, Gazebo Sim, MATLAB/Simulink
-
-Architecting a robotics evaluation system within a Vertically Integrated Project (VIP) team at Purdue. Bridges software and hardware to compare **Nonlinear Receding-Horizon Differential Game control vs. Nonlinear MPC** — with scalable data pipelines and high-reliability system modules.
+### [SURGE](https://github.com/mohamedzait20003/SURGE)
+Built a multi-tenant B2B outreach automation platform. Businesses can import leads, segment them, and run AI-generated email campaigns. The platform utilizes LangChain and Google Gemini for campaign generation and manages asynchronous campaign execution with Celery and Redis. This system enables personalized, AI-driven outreach at scale. The backend is developed with FastAPI and SQLAlchemy (PostgreSQL), and the frontend uses React 19.
+**Technologies:** FastAPI, React, SQLAlchemy, PostgreSQL, Celery, Redis, LangChain, Google Gemini, Apollo.io API, Resend.
 
 ---
 
-### 🧠 [CiteMind — NLP Research Tool](https://github.com/mohamedzait20003)
-> Python, PyTorch, Hugging Face Transformers
-
-An NLP tool leveraging state-of-the-art transformer architectures to process and analyze complex academic text. Focuses on citation-aware understanding and structured text extraction — applying attention-based models to extract semantically meaningful references from dense scholarly documents.
-
----
-
-### 💰 [Aallie — AI-Powered CFO Platform](https://github.com/mohamedzait20003)
-> React, Redux/RTK, Laravel, MongoDB, PostgreSQL, Stripe API
-
-Full-stack contribution to an AI-powered financial platform for startups. Built scalable frontend state management with Redux/RTK, developed backend services in Laravel, and implemented subscription billing with Stripe.
-
----
-
-### 🏥 [MedMate — AI Health App](https://github.com/mohamedzait20003)
-> Flutter, BLoC, Express, Prisma, Gemini AI
-
-Mobile application for patient health management — appointment scheduling, medication tracking, and AI-generated health recommendations powered by Gemini. Built with Flutter for a responsive cross-platform experience.
-
----
-
-### 🔐 [Enadox — Secure Desktop App](https://github.com/mohamedzait20003)
-> C#, Avalonia
-
-A desktop application providing encrypted communication and tamper-proof data exchange between parties. Integrates robust cryptographic protocols to ensure confidentiality and data integrity.
-
----
-
-## 💼 Experience
-
-| Role | Organization | Period |
-|---|---|---|
-| Undergraduate Research Assistant (Cybersecurity/ICS) | Purdue University — CYNICS Lab | Jan 2026 – May 2026 |
-| Undergraduate Teaching Assistant | Purdue University | Aug 2025 – May 2026 |
-| Fullstack Software Engineer | Aallie (Remote) | Dec 2024 – Aug 2025 |
-| Fullstack Software Engineer Intern | Aallie (Remote) | Sept 2024 – Dec 2024 |
-| Fullstack & IoT Engineer Intern | Egyptian NAID | Aug 2024 – Sept 2024 |
-| Software Engineer Intern | Nexus Analytica, Cairo | Aug 2023 – Oct 2023 |
-
----
-
-## 📊 GitHub Stats
-
-<!-- Row 1: Profile Summary + Top Languages -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedzait20003&theme=default" width="100%"/>
-</p>
-
-<!-- Row 2: Stats + Top Languages side by side -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamedzait20003&theme=default" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamedzait20003&theme=default" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamedzait20003&theme=default" height="180"/>
-</p>
-
-<!-- Row 3: Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohamedzait20003&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%"/>
-</p>
-
-<!-- Row 4: Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedzait20003&theme=flat&no-frame=true&row=1&column=6&margin-w=10" width="100%"/>
-</p>
-
----
+## 📈 GitHub Stats
 
 <p align="center">
-  <i>Open to internships, research collaborations, and interesting problems. Let's build something together.</i>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedzait20003&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Mohamed Zaitoun's GitHub Stats"/>
+  <img src="
