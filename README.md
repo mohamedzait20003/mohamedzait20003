@@ -104,8 +104,34 @@ Built a multi-tenant B2B outreach automation platform. Businesses can import lea
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+
+<!-- Row 1: Profile Summary + Top Languages -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedzait20003&theme=default" width="100%"/>
+</p>
+
+<!-- Row 2: Stats + Top Languages side by side -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamedzait20003&theme=default" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamedzait20003&theme=default" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamedzait20003&theme=default" height="180"/>
+</p>
+
+<!-- Row 3: Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohamedzait20003&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%"/>
+</p>
+
+<!-- Row 4: Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedzait20003&theme=flat&no-frame=true&row=1&column=6&margin-w=10" width="100%"/>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedzait20003&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Mohamed Zaitoun's GitHub Stats"/>
-  <img src="
+  <i>Open to internships, research collaborations, and interesting problems. Let's build something together.</i>
+</p>
