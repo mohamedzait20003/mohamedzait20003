@@ -120,11 +120,6 @@ Built a multi-tenant B2B outreach automation platform. Businesses can import lea
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamedzait20003&theme=default" height="180"/>
 </p>
 
-<!-- Row 3: Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohamedzait20003&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%"/>
-</p>
-
 ---
 
 <p align="center">
