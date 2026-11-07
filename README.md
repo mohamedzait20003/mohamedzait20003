@@ -84,26 +84,6 @@ Currently I'm:
 
 ---
 
-## ✨ AI-Agentic Systems & Full-Stack Innovations
-
-### [CiteMind](https://github.com/mohamedzait20003/CiteMind)
-Engineered a multimodal audio-language model for academic citation recommendation. This project fused a frozen OpenAI Whisper audio encoder with a BART sequence-to-sequence decoder via a custom cross-modal layer. I designed a two-stage training pipeline on A100 GPUs, utilizing masked generative pre-training followed by PPO-based Reinforcement Learning with a custom composite reward function. This approach successfully **reduced citation hallucination rates from 11% to 2% and improved format accuracy from 89% to 98%**.
-**Technologies:** Python, PyTorch, Hugging Face, Reinforcement Learning, Whisper, BART.
-
-### [RepoNarrator](https://github.com/mohamedzait20003/RepoNarrator)
-Developed a full-stack application that generates AI-powered GitHub READMEs, tailored to a user's resume. This system integrates LangChain to create agentic workflows, reading user resumes and repository content to generate or improve project READMEs. The generated content is then pushed back as a pull request or direct commit. The backend is built with NestJS and TypeORM (PostgreSQL), while the frontend uses TanStack Start + React 19.
-**Technologies:** TypeScript, NestJS, React, TypeORM, PostgreSQL, LangChain.
-
-### [Tractus](https://github.com/mohamedzait20003/Tractus)
-Created a full-stack task management application with an optional AI layer powered by Google Gemini via the ADK Go SDK. Clients can describe goals in natural language to create tasks or leverage the AI to automatically organize and re-prioritize their backlog. This system streamlines task management by providing intelligent, AI-driven assistance. The backend is built with Go and Gin, while the frontend uses Next.js 16 and React 19.
-**Technologies:** Go, Next.js, PostgreSQL, Google Gemini (via ADK).
-
-### [SURGE](https://github.com/mohamedzait20003/SURGE)
-Built a multi-tenant B2B outreach automation platform. Businesses can import leads, segment them, and run AI-generated email campaigns. The platform utilizes LangChain and Google Gemini for campaign generation and manages asynchronous campaign execution with Celery and Redis. This system enables personalized, AI-driven outreach at scale. The backend is developed with FastAPI and SQLAlchemy (PostgreSQL), and the frontend uses React 19.
-**Technologies:** FastAPI, React, SQLAlchemy, PostgreSQL, Celery, Redis, LangChain, Google Gemini, Apollo.io API, Resend.
-
----
-
 ## 📊 GitHub Stats
 
 <!-- Row 1: Profile Summary + Top Languages -->
